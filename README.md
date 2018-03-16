@@ -19,7 +19,7 @@ cd src/hbp
 python main.py -c hb19.yaml
 ```
 
-- To train other baseline models, run
+- To train other baseline models, run:
 ```sh
 cd src/baselines
 ./run.sh
