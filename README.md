@@ -1,5 +1,8 @@
 # Online Deep Learning: Learning Deep Neural Networks on the Fly
-An implementation of the Online HedgeBackpropagation(HBP) proposed in Online Deep Learning: Learning Deep Neural Networks on the Fly [https://arxiv.org/abs/1711.03705](https://arxiv.org/abs/1711.03705).
+An implementation of the Online HedgeBackpropagation(HBP) proposed in Online Deep Learning: Learning Deep Neural Networks on the Fly 
+
+IJCAI-ECAI-18
+Preprint: [https://arxiv.org/abs/1711.03705](https://arxiv.org/abs/1711.03705).
 
 # Requirements and Installation
 - Theano 0.8.2
