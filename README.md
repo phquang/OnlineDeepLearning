@@ -11,7 +11,7 @@ Note that as the current HBP implementation only supports Keras 1.
 # Experiments
 - To run HBP on the sample Higgs dataset, first download the data:
 ```sh
-wget -O data/higgs.mat https://www.dropbox.com/s/hyk4kixj0h9rx9l/higgs_100k.mat
+wget -O data/higgs.mat https://www.dropbox.com/s/fvqnhe34cf0mlz9/higgs_100k.mat
 ```
 - To train HBP, run:
 ```sh
